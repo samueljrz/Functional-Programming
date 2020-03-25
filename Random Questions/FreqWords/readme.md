@@ -1,1 +1,1 @@
-##count the frenquecy of the words in a text
+## count the frenquecy of the words in a text

@@ -1,1 +1,1 @@
-##calculator made in HASKELL, two forms
+## calculator made in HASKELL, two forms
